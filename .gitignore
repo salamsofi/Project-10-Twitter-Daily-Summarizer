@@ -1,0 +1,42 @@
+# Ignore environment variables
+.env
+.env.*
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Logs
+*.log
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Chunked or temporary files
+*.chunk
+*.part
+*.tmp
+*.swp
+
+# Coverage and test reports
+.coverage
+htmlcov/
+*.coverage
+
+# IDE/project settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
