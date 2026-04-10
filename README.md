@@ -78,7 +78,7 @@ Instead of just scraping tweets, the system transforms raw data into **actionabl
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/twitter-ai-scraper.git
+git clone https://github.com/SalamSofi/twitter-ai-scraper.git
 cd twitter-ai-scraper
 ```
 
